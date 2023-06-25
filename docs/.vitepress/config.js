@@ -11,7 +11,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: '文档', link: '/markdown-examples' },
-      { text: 'es6', link: '/01.ECMAScript 6 简介' }
+      { text: 'es6', link: '/ES6 Tutorial notes/01.ECMAScript 6 简介' }
 
     ],
     outline: {
@@ -37,7 +37,7 @@ export default defineConfig({
         text: 'es6',
         collapsed: true,
         items: [
-          { text: '01.ECMAScript 6 简介', link: '/《ES6 教程》笔记/01.ECMAScript 6 简介' },
+          { text: '01.ECMAScript 6 简介', link: '/ES6 Tutorial notes/01.ECMAScript 6 简介' },
         ]
       },
     ],
