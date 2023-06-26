@@ -62,7 +62,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'es6', link: '/ES6 Tutorial notes/01.ECMAScript 6 简介' }
+      { text: 'es6', link: '/ES6TutorialNotes/01.ECMAScript 6 简介' }
 
     ],
     outline: {
